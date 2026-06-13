@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://kdev-huh.github.io/Blog/sitemap.xml
